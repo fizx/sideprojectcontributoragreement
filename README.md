@@ -16,7 +16,7 @@ Before a company is formed:
 
 5. A majority of members may choose to start a company together.  80% of the equity in the resulting company shall be split equally per-person between the co-founders on a typical four year vesting schedule, and 20% shall vest immediately to all of the members and former members, in proportion to hours worked before company formation.
 
-6. A supermajority 
+6. A majority of members may also choose to release the project under an OSS license and end the project.
 
 Once the company is formed:
 
