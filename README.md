@@ -14,4 +14,8 @@ Before a company is formed:
 
 5. A majority of members may choose to start a company together.  80% of the equity in the resulting company shall be split equally per-person between the co-founders on a typical four year vesting schedule, and 20% shall vest immediately to all of the members, in proportion to hours worked before company formation.
 
-6. Once the company is formed, requirement for existing members not to share project/company secrets shall continue, but otherwise the project will end.
+Once the company is formed:
+
+1. The requirement for existing members not to share project/company secrets shall continue.
+
+2. Otherwise, the project will end.
